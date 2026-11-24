@@ -1,0 +1,34 @@
+# Dependencies and generated builds
+**/node_modules/
+**/.pnpm-store/
+**/dist/
+**/.test-build/
+**/bin/
+**/obj/
+backend/web/
+artifacts/
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+**/appsettings.Local.json
+**/appsettings.*.local.json
+*.pfx
+*.p12
+*.key
+*.pem
+*.user
+*.suo
+.vs/
+.vscode/
+# Logs, exports and company data
+*.log
+*.zip
+*.xlsx
+*.xls
+*.csv
+*.pdf
+*.pptx
+*.png
+.DS_Store
+Thumbs.db

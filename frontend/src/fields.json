@@ -1,0 +1,237 @@
+{
+  "severity-summary": [
+    "dateFrom",
+    "dateTo",
+    "ticketKind",
+    "serviceGroup",
+    "serviceName",
+    "scope"
+  ],
+  "aging": [
+    "ageBasis",
+    "ticketKind",
+    "serviceGroup",
+    "dateFrom",
+    "dateTo",
+    "serviceSort",
+    "topN",
+    "weeks",
+    "scope"
+  ],
+  "backlog-forecast": [
+    "historyMonths",
+    "ticketKind",
+    "focusGroup",
+    "scope"
+  ],
+  "filter-options": [],
+  "job-detail": [
+    "ticketKind",
+    "jobID",
+    "jobNo",
+    "scope"
+  ],
+  "live-ops": [
+    "serviceGroup",
+    "scope"
+  ],
+  "monthly-trend": [
+    "months",
+    "ticketKind",
+    "serviceGroup",
+    "scope"
+  ],
+  "process-quality": [
+    "dateFrom",
+    "dateTo",
+    "ticketKind",
+    "serviceGroup",
+    "weeks",
+    "scope"
+  ],
+  "resolution-time": [
+    "dateFrom",
+    "dateTo",
+    "ticketKind",
+    "scope",
+    "serviceGroup"
+  ],
+  "sla-drilldown": [
+    "level",
+    "serviceGroup",
+    "serviceName",
+    "dateFrom",
+    "dateTo",
+    "ticketKind",
+    "scope"
+  ],
+  "ticket-list": [
+    "status",
+    "ticketKind",
+    "serviceGroup",
+    "serviceName",
+    "serviceSymptom",
+    "severity",
+    "supportName",
+    "ageBucket",
+    "ageBasis",
+    "dateField",
+    "dateFrom",
+    "dateTo",
+    "search",
+    "sortBy",
+    "page",
+    "pageSize",
+    "assignedToMe",
+    "scope"
+  ],
+  "workload": [
+    "dateFrom",
+    "dateTo",
+    "ticketKind",
+    "serviceGroup",
+    "weeks",
+    "scope"
+  ],
+  "my-access": [],
+  "my-team": [
+    "scope"
+  ],
+  "refresh-status": [
+    "top"
+  ],
+  "v2/workload": [
+    "scope",
+    "dateFrom",
+    "dateTo",
+    "company",
+    "team",
+    "priority",
+    "type",
+    "serviceGroup",
+    "category",
+    "topN",
+    "weeks"
+  ],
+  "v2/job-list": [
+    "scope",
+    "dateFrom",
+    "dateTo",
+    "company",
+    "team",
+    "priority",
+    "type",
+    "serviceGroup",
+    "category",
+    "topN",
+    "weeks",
+    "dateBasis",
+    "tab",
+    "statusGroup",
+    "statusV2",
+    "slaBucket",
+    "openedBand",
+    "stage",
+    "moves",
+    "supportID",
+    "symptom",
+    "rootCause",
+    "ageBucket",
+    "onDate",
+    "breached",
+    "nearMiss",
+    "search",
+    "sortBy",
+    "page",
+    "pageSize"
+  ],
+  "v2/job-detail": [
+    "scope",
+    "jobNo",
+    "ticketKind",
+    "jobID",
+    "dateFrom",
+    "dateTo"
+  ],
+  "v2/person-focus": [
+    "scope",
+    "dateFrom",
+    "dateTo",
+    "company",
+    "team",
+    "priority",
+    "type",
+    "serviceGroup",
+    "category",
+    "topN",
+    "weeks",
+    "supportID"
+  ],
+  "v2/sla-breached": [
+    "scope",
+    "dateFrom",
+    "dateTo",
+    "company",
+    "team",
+    "priority",
+    "type",
+    "serviceGroup",
+    "category",
+    "topN",
+    "weeks"
+  ],
+  "v2/completed": [
+    "scope",
+    "dateFrom",
+    "dateTo",
+    "company",
+    "team",
+    "priority",
+    "type",
+    "serviceGroup",
+    "category",
+    "topN",
+    "weeks"
+  ],
+  "v2/teams": [
+    "scope",
+    "dateFrom",
+    "dateTo",
+    "company",
+    "team",
+    "priority",
+    "type",
+    "serviceGroup",
+    "category",
+    "topN",
+    "weeks"
+  ],
+  "v2/team-focus": [
+    "scope",
+    "dateFrom",
+    "dateTo",
+    "company",
+    "team",
+    "priority",
+    "type",
+    "serviceGroup",
+    "category",
+    "topN",
+    "weeks"
+  ],
+  "v2/live": [
+    "scope",
+    "dateFrom",
+    "dateTo",
+    "company",
+    "team",
+    "priority",
+    "type",
+    "serviceGroup",
+    "category",
+    "topN"
+  ],
+  "v2/filters": [
+    "scope"
+  ]
+}
